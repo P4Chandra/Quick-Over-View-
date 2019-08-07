@@ -11,14 +11,14 @@ A quick over view of my accomplishments in VR with UDACITY . Includes screenshot
     
  
  
- 3) VR Basic Maze Game with Animation for Google Cardboard:
+ 3) VR Basic Maze Game with Animation for Google Cardboard: My First VR Mobile Game with Player movement by Way point Navigation, Nice UI feature that displays player status,hints count of coins/keys collected, basic animation like rotation of coins and opening a chest (gaze pointer).
         
  
  
- 4) My Favorite VR High Immersion project-Rubrik's Puzzle : Extremely challenging and most enlightening experience of all. Built game from scratch, Implemented Player movement including dashing,teleport,moving backforward,forward,right and left using controller, grabbing and throwing objects in game. Failed several times ,crashed the game on many occasions, made the player fall off the ground or dissappear through wall and almost cried. But eventually made it work. 
+ 4) My Favorite VR High Immersion project-Rubrik's Puzzle : Extremely challenging and most enlightening experience of all. Built game from scratch, Implemented Player movement including dashing,teleport,moving backforward,forward,right and left using controller, grabbing and throwing objects in game. Failed several times ,crashed the game on many occasions, made the player fall off the ground or dissappear through wall and made earthly objects defy laws of physics and almost cried. But eventually made it work !!!
  
  
- 5) VR High-Immersion MAZE CHALLENGE
+ 5) VR High-Immersion MAZE CHALLENGE : Everything that I learnt in VR by far.....
 
     --Fundamentals Acheivement - Scale,Animation,Lighting,
  
