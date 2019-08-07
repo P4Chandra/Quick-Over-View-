@@ -2,8 +2,7 @@ VR-Projects-OverView
 
 A quick over view of my accomplishments in VR with UDACITY . Includes screenshots,videos and blog links. 
 
- 1) Intro to VR : ApartMent Project
-    My first project. Learnt basic lighting and placing game objects with first basic animation.
+ 1) Intro to VR : Apartment Project is my first project. Learnt basic lighting and placing game objects with first basic animation.
  
  
  
