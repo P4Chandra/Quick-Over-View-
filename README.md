@@ -1,4 +1,4 @@
-VR_Capstone_HighImmersion# VR-Projects-OverView
+VR-Projects-OverView
 A quick over view of my accomplishments in VR with UDACITY . Includes screenshots,videos and blog links. 
 
 VR High-Immersion MAZE CHALLENGE
