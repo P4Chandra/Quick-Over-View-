@@ -1,7 +1,7 @@
 VR-Projects-OverView
-A quick over view of my accomplishments in VR with UDACITY . Includes screenshots,videos and blog links. 
+--A quick over view of my accomplishments in VR with UDACITY . Includes screenshots,videos and blog links. 
 
-VR High-Immersion MAZE CHALLENGE
+--VR High-Immersion MAZE CHALLENGE
  --Fundamentals Acheivement - Scale,Animation,Lighting,
  --Physics : Player Movement,Enemy movement,Cannon Ball,Bow Arrow 
  --Animation : Moving Gems and Coins with Interaction.
