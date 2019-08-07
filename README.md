@@ -2,20 +2,44 @@ VR-Projects-OverView
 
 A quick over view of my accomplishments in VR with UDACITY . Includes screenshots,videos and blog links. 
 
-1) VR High-Immersion MAZE CHALLENGE
+ 1) Intro to VR : ApartMent Project
+    My first project. Learnt basic lighting and placing game objects with first basic animation.
+ 
+ 
+ 
+ 2) VR Design and Testing : Basic steps and design procedure that helps me build a project every single time.
+         https://pcpuzzler.blogspot.com/2019/04/udacity-puzzler-vr-writeup.html
+    
+ 
+ 
+ 3) VR Basic Maze Game with Animation for Google Cardboard:
+        
+ 
+ 
+ 4) My Favorite VR High Immersion project-Rubrik's Puzzle : Extremely challenging and most enlightening experience of all. Built game from scratch, Implemented Player movement including dashing,teleport,moving backforward,forward,right and left using controller, grabbing and throwing objects in game. Failed several times ,crashed the game on many occasions, made the player fall off the ground or dissappear through wall and almost cried. But eventually made it work. 
+ 
+ 
+ 5) VR High-Immersion MAZE CHALLENGE
 
- --Fundamentals Acheivement - Scale,Animation,Lighting,
+    --Fundamentals Acheivement - Scale,Animation,Lighting,
  
- --Physics : Player Movement,Enemy movement,Cannon Ball,Bow Arrow 
+    --Physics : Player Movement,Enemy movement,Cannon Ball,Bow Arrow 
  
- --Animation : Moving Gems and Coins with Interaction.
+    --Animation : Moving Gems and Coins with Interaction.
  
- --Gamification : Reduce Player health on enemy attack, collect coins to buy weapons or increase health of player
+    --Gamification : Reduce Player health on enemy attack, collect coins to buy weapons or increase health of player
  
- --UI Interface,AI Acheivement 
+    --UI Interface with Laser pointer to interact with buttons,gems and coins.
+    
+    --AI Acheivement Spider/Enemy Movement
  
- --Speech Recognition:Player can ask for help.(Speech to Text using Cortana)
+    --Speech Recognition:Player can ask for help.(Speech to Text using Cortana)
+    
+    --Performance Enhancements: Object Pool,enhanced UI for optimal performance.
  
-Link to video:
+    --Link to video:
          https://www.youtube.com/watch?v=GhnXKduVilk&feature=youtu.be
 
+ 
+  
+ 
