@@ -15,7 +15,7 @@ A quick over view of my accomplishments in VR with UDACITY . Includes screenshot
         
  
  
- 4) My Favorite VR High Immersion project-Rubrik's Puzzle : Extremely challenging and most enlightening experience of all. Built game from scratch, Implemented Player movement including dashing,teleport,moving backforward,forward,right and left using controller, grabbing and throwing objects in game. Failed several times ,crashed the game on many occasions, made the player fall off the ground or dissappear through wall and made earthly objects defy laws of physics and almost cried. But eventually made it work !!!
+ 4) My Favorite VR High Immersion project-Rubrik's Puzzle : Extremely challenging and most enlightening experience of all. Built game from scratch, Implemented Player movement including dashing,teleport,moving backforward,forward,right and left using controller, grabbing and throwing objects in game.Designed Trampolines,industrial fans,ramps etc. Failed several times ,crashed the game on many occasions, made the player fall off the ground or dissappear through wall and made earthly objects defy laws of physics and almost cried. But eventually made it work !!!
  
  
  5) VR High-Immersion MAZE CHALLENGE : Everything that I learnt in VR by far.....
