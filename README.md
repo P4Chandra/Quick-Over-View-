@@ -39,12 +39,9 @@ A quick over view of my accomplishments in VR with UDACITY . Includes screenshot
     --Link to video:
          https://www.youtube.com/watch?v=GhnXKduVilk&feature=youtu.be
 
-Capstone Scoping Document: https://github.com/P4Chandra/VR_Capstone_HighImmersion/blob/master/PC-capstone-pre-production-scoping-document.docx
+    --Capstone Scoping Document: https://github.com/P4Chandra/VR_Capstone_HighImmersion/blob/master/PC-capstone-pre-production-scoping-document.docx
 
-Capstone Acheivement : https://github.com/P4Chandra/VR_Capstone_HighImmersion/blob/master/PC-Achievements%20Incorporate.docx
+    --Capstone Acheivement : https://github.com/P4Chandra/VR_Capstone_HighImmersion/blob/master/PC-Achievements%20Incorporate.docx
 
-
-
-PS: The speech to Text works: I couldnot record my voice on video using unity REcorder or VR Video Capture (tools from asset store). If you have any tool sugggestion please let me know. I can rerecord and upload the new video
-  6) Coloboration with others : https://github.com/pratyooshp3/A-Space-Adventure
+6) Coloboration with others : https://github.com/pratyooshp3/A-Space-Adventure
  
