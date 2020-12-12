@@ -12,6 +12,7 @@ A quick over view of my accomplishments in VR with UDACITY . Includes screenshot
  
  
  3) VR Basic Maze Game with Animation for Google Cardboard: My First VR Mobile Game with Player movement by Way point Navigation, Nice UI feature that displays player status,hints count of coins/keys collected, basic animation like rotation of coins and opening a chest (gaze pointer).
+    Link to video : https://youtu.be/SinUJzbjtMI
         
  
  
